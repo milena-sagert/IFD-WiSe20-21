@@ -1,6 +1,5 @@
 # Aufgaben
 
-[##01 - Test](Wallet Project/html-template/index.html)   
 
 <a href="02-Prototyping-Tool/2.1 - Prototyping Tool.md" target="_blank">#02 - Prototyping Tool</a> <br>
 <a href="01-Wallet-Project/html-template/index.html" target="_blank">#01 - Wallet Project</a> <br>
