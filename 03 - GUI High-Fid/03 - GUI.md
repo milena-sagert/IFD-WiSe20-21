@@ -3,14 +3,18 @@
 ## 3.1 High-Fid Prototype vom *DM-Intranet*
 
 ![GUI](img/GUI-1.png "GUI - Startseite")
-![GUI](img/GUI-2.png "GUI - Kursseite")
+###### Screenshot - Startseite (IFD)
 
+nbsp
+
+![GUI](img/GUI-2.png "GUI - Kursseite")
+###### Screenshot - Kursseite (IFD)
 
 &nbsp;
 
 
-### X
-x
+### Zur Browser-Anwendung des Prototypen: [Vorschau](https://pr.to/LSR7DH/)
+
 
 
 
