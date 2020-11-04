@@ -2,9 +2,6 @@
 # #03 - Wahrnehmung & Aufmerksamkeit 
 ## 3.1 High-Fid Prototype vom *DM-Intranet*
 
-![GUI](img/GUI-1.png "GUI - Startseite")
-###### Screenshot - Startseite (IFD)
----
 
 &nbsp;
 
@@ -15,6 +12,13 @@
 ---
 
 &nbsp;
+
+
+
+![GUI](img/GUI-1.png "GUI - Startseite")
+###### Screenshot - Startseite (IFD)
+---
+
 
 &nbsp;
 
