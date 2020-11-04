@@ -5,8 +5,6 @@
 
 &nbsp;
 
-&nbsp;
-
 
 ### Zur Browser-Anwendung des Prototypen: [Vorschau](https://pr.to/LSR7DH/)
 ---
@@ -35,5 +33,5 @@
 &nbsp;
 
 
----
+
 [Nach oben &#x25B2;](#top)
