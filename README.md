@@ -1,6 +1,6 @@
 # Aufgaben
 
-<a href="https://pr.to/LSR7DH/" target="_blank">#03 - GUI - High-Fid</a> <br>
+<a href="https://github.com/milena-sagert/IFD-WiSe20-21/blob/main/03%20-%20GUI%20High-Fid/03%20-%20GUI.md" target="_blank">#03 - GUI - High-Fid</a> <br>
 <a href="https://github.com/milena-sagert/IFD-WiSe20-21/blob/main/02-%20Prototyping-Tool/2.2%20-%20Konzeptentwurf.md" target="_blank">#02.2 - Konzeptentwurf</a> <br>
 <a href="https://github.com/milena-sagert/IFD-WiSe20-21/blob/main/02-%20Prototyping-Tool/2.1%20-%20Prototyping%20Tool.md" target="_blank">#02.1 - Prototyping Tool</a> <br>
 <a href="01-Wallet-Project/html-template/index.html" target="_blank">#01 - Wallet Project</a> <br>

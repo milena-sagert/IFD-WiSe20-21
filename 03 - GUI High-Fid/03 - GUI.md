@@ -4,11 +4,15 @@
 
 ![GUI](img/GUI-1.png "GUI - Startseite")
 ###### Screenshot - Startseite (IFD)
+---
 
-nbsp
+
+&nbsp;
 
 ![GUI](img/GUI-2.png "GUI - Kursseite")
 ###### Screenshot - Kursseite (IFD)
+---
+
 
 &nbsp;
 
