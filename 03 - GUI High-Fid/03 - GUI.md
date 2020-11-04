@@ -2,16 +2,15 @@
 # #03 - Wahrnehmung & Aufmerksamkeit 
 ## 3.1 High-Fid Prototype vom *DM-Intranet*
 
-![GUI](img/GUI-1 "GUI - Startseite")
-![GUI](img/GUI-2 "GUI - Kursseite")
+![GUI](img/GUI-1.png "GUI - Startseite")
+![GUI](img/GUI-2.png "GUI - Kursseite")
 
 
 &nbsp;
 
 
-### 1. Idee:
-Grundsätzlich muss das DM-Intranet intuitiver gestaltet werden. Die Plattform muss auf die wesentlichen Inhalte komprimierrt werden. Dazu ist die Reduzierung der Unterseiten sowie eine neue Anordnung der 
-relevanten Elemente notwendig. 
+### X
+x
 
 
 
