@@ -6,18 +6,24 @@
 ###### Screenshot - Startseite (IFD)
 ---
 
-
 &nbsp;
-
-![GUI](img/GUI-2.png "GUI - Kursseite")
-###### Screenshot - Kursseite (IFD)
----
-
 
 &nbsp;
 
 
 ### Zur Browser-Anwendung des Prototypen: [Vorschau](https://pr.to/LSR7DH/)
+---
+
+&nbsp;
+
+&nbsp;
+
+
+
+![GUI](img/GUI-2.png "GUI - Kursseite")
+###### Screenshot - Kursseite (IFD)
+---
+
 
 
 &nbsp;
