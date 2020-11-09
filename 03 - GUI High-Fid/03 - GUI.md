@@ -7,7 +7,6 @@
 
 ### Zum Screencast des Prototypen: [Vorschau](https://pr.to/LSR7DH/)
 
-&nbsp;
 
 
 #### Zur Browser-Anwendung des Prototypen: [Vorschau](https://pr.to/LSR7DH/) (pausiert)
