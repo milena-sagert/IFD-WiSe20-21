@@ -5,9 +5,9 @@
 
 &nbsp;
 
-### Zum Screencast des Prototypen: [Vorschau](https://pr.to/LSR7DH/) 
+### Zum Screencast des Prototypen: [Vorschau]() 
 
-<a href="03- GUI Hidh-Fid/index.html" target="_blank">#03 - Prototyp</a> <br>
+<a href="03-GUI/index.html" target="_blank">#03 - Prototyp</a> <br>
 
 
 
