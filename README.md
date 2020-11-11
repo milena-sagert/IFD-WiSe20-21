@@ -6,7 +6,7 @@
 
 &nbsp;
 
-<a href="https://github.com/milena-sagert/IFD-WiSe20-21/blob/main/03%20-%20GUI%20High-Fid/03%20-%20GUI.md" target="_blank">#03 - GUI - High-Fid</a> <br>
+<a href="https://github.com/milena-sagert/IFD-WiSe20-21/blob/main/03%20-%20GUI/03%20-%20GUI.md" target="_blank">#03 - GUI - High-Fid</a> <br>
 
 &nbsp;
 
