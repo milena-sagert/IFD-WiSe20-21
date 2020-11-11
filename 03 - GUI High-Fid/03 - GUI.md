@@ -5,7 +5,10 @@
 
 &nbsp;
 
-### Zum Screencast des Prototypen: [Vorschau](https://pr.to/LSR7DH/)
+### Zum Screencast des Prototypen: [Vorschau](https://pr.to/LSR7DH/) 
+
+<a href="03- GUI Hidh-Fid/index.html" target="_blank">#03 - Prototyp</a> <br>
+
 
 
 #### Zur Browser-Anwendung des Prototypen: [Vorschau](https://pr.to/LSR7DH/) (pausiert)
