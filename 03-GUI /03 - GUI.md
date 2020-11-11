@@ -5,14 +5,16 @@
 
 &nbsp;
 
-### Zum Screencast des Prototypen: [Vorschau]() 
+### Zum Screencast des Prototypes: [Vorschau]() 
 
 <a href="https://github.com/milena-sagert/IFD-WiSe20-21/blob/main/index.html" target="_blank">#03 - Prototyp</a> <br>
 
 <a href="./index.html" target="_blank">#03 - Prototyp</a> <br>
 
+<a href="03-GUI/index.html" target="_blank">#01 - Wallet Project</a> <br>
 
-#### Zur Browser-Anwendung des Prototypen: [Vorschau](https://pr.to/LSR7DH/) (pausiert)
+
+#### Zur Browser-Anwendung des Prototypes: [Vorschau](https://pr.to/LSR7DH/) (pausiert)
 ---
 
 &nbsp;
