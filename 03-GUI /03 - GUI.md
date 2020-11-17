@@ -5,8 +5,8 @@
 
 &nbsp;
 
-### Zum Screencast des Prototypes: [Vorschau](https://milena-sagert.github.io/IFD-WiSe20-21/03-GUI/index.html) 
-
+#### Zum Screencast des Prototypes: [Vorschau](https://milena-sagert.github.io/IFD-WiSe20-21/03-GUI/index.html) 
+#### Zum Screencast des Prototypes: [Vorschau](03-GUI/index.html) 
 
 
 #### Zur Browser-Anwendung des Prototypes: [Vorschau](https://pr.to/LSR7DH/) (pausiert)
