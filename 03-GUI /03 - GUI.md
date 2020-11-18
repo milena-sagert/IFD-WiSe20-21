@@ -5,7 +5,7 @@
 
 &nbsp;
 
-#### Zum Screencast des Prototypes: [Vorschau](https://www.youtube.com/watch?v=5sB3e7N4ifM&feature=youtu.be) 
+#### Zum Screencast des Prototypes: [Vorschau](https://youtu.be/5sB3e7N4ifM) 
 
 
 #### Zur Browser-Anwendung des Prototypes: [Vorschau](https://pr.to/LSR7DH/) (pausiert)
