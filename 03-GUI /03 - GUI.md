@@ -7,6 +7,8 @@
 
 #### Zum Screencast des Prototypes: [Vorschau](https://youtu.be/5sB3e7N4ifM) 
 
+<a href="index.html" target="_blank">#03 - GUI</a> <br>
+
 
 #### Zur Browser-Anwendung des Prototypes: [Vorschau](https://pr.to/LSR7DH/) (pausiert)
 ---
