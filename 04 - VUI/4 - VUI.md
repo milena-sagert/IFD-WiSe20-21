@@ -23,10 +23,10 @@ Vorrangig wurde darauf geachtet, dass sich der Nutzer während des Dialogs mit d
 
 Wichtig dabei war, dass...
  
-...die vermittelten Informationen kurz und prägnant wiedergegeben werden.
-...sich der Umfang der Abfragen auf maximal zwei verschiedene Tage beschränkt.
-...der Nutzer an jeder Stelle des Dialogs zu einer vorherigen Frage zurückkehren kann bzw. diese wiederholen lassen kann.
-...die Kommunikation nie vom System beendet wird, sondern aussschließlich vom Nutzer selber.
+...die vermittelten Informationen kurz und prägnant wiedergegeben werden. <br>
+...sich der Umfang der Abfragen auf maximal zwei verschiedene Tage beschränkt. <br>
+...der Nutzer an jeder Stelle des Dialogs zu einer vorherigen Frage zurückkehren kann bzw. diese wiederholen lassen kann. <br>
+...die Kommunikation nie vom System beendet wird, sondern aussschließlich vom Nutzer selber. <br>
 
 Im Rahmen dieser drei Abfragen kann sich der Studierende schnell und einfach alle relevanten Informationen ausgeben lassen und muss sich nie wieder händisch mit Stundenplänen oder Terminkalendern auseinander setzen. :-)
 
