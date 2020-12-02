@@ -2,7 +2,7 @@
 
 &nbsp;
 
-<a href="https://github.com/milena-sagert/IFD-WiSe20-21/blob/main/04%20-%20VUI/4%20-%20VUI.md" target="_blank">#05 - High Fid VUI </a> <br>
+<a href="https://github.com/milena-sagert/IFD-WiSe20-21/blob/main/05%20-%20High%20Fid%20VUI/5%20-%20High%20Fid%20VUI.md" target="_blank">#05 - High Fid VUI </a> <br>
 
 <a href="https://github.com/milena-sagert/IFD-WiSe20-21/blob/main/04%20-%20VUI/4%20-%20VUI.md" target="_blank">#04 - VUI Konzeptentwurf</a> <br>
 

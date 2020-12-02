@@ -4,7 +4,6 @@
 &nbsp;
 
 ### Zum Screencast : [Vorschau](https://youtu.be/4xj6IYPj_A4) 
----
 
 &nbsp;
 
