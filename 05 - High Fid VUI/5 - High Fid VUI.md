@@ -3,7 +3,9 @@
 
 &nbsp;
 
-### Zum Screencast : [Vorschau](https://youtu.be/4xj6IYPj_A4) 
+### Zum Screencast: [Vorschau](https://youtu.be/4xj6IYPj_A4) 
+
+### Zur Anwendung: [Vorschau](https://adobe.ly/36vHpoY)
 
 &nbsp;
 
