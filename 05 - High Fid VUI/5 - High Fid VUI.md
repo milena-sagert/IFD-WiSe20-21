@@ -4,10 +4,10 @@
 &nbsp;
 
 ### Zum Screencast: 
-[Öffnen](https://youtu.be/4xj6IYPj_A4) 
+[Öffnen](https://www.youtube.com/watch?v=OJUvaAYF4kg&feature=youtu.be) 
 
 ### Zur Anwendung: 
-[Öffnen](https://adobe.ly/36vHpoY)
+[Öffnen](https://adobe.ly/36BVWzF)
 
 &nbsp;
 
