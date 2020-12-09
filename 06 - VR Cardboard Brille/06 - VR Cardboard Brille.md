@@ -3,8 +3,7 @@
 
 &nbsp;
 
-
-### 1. Erstellung des Designs:
+## 1. Erstellung des Designs:
 
 Zur visuellen Optimierung der Brille wurde ein HFU-Design für die Papiervorlage erstellt. Auf Basis des Corporate Designs der Hochschule Furtwangen wurde bei der Farbwahl die Primärfarbe "frisches Apfelgrün" berücksichtigt. Das Logo ist wurde sowohl auf der Vorderseite der VR Brille, als auch auf der rechten und linken Seite platziert. 
 Ergänzt wird das Ganze durch tannenförmige Vektorgrafiken, die den Schwarzwald und somit den Standort der Hochschule symbolisieren.
@@ -14,28 +13,19 @@ Ergänzt wird das Ganze durch tannenförmige Vektorgrafiken, die den Schwarzwald
 &nbsp;
 
 
-### 2. Zusammenbau der Papierbrille:
+## 2. Zusammenbau der Papierbrille:
 
-zentraler
+#### Zur Veranschaulichung des Fertigungs Prozesses dient die Aufnahme eines Zeitraffer Videos: [Öffnen](https://youtu.be/9VIoaTH1ais) 
 
-![HFU-Design](img/IFD_VR_Cardboard_Brille_Seiten_Finder.png "HFU-Design")
 
 
 &nbsp;
 
-### 3. Endergebnis:
+## 3. Endergebnis:
 
 ![Endergebnis](img/IFD_VR_Cardboard_Brille_Endergebnis.JPG "Endergebnis")
 
 
-
-
-
-### Zum Screencast: 
-[Öffnen](https://www.youtube.com/watch?v=OJUvaAYF4kg&feature=youtu.be) 
-
-### Zur Anwendung: 
-[Öffnen](https://adobe.ly/36BVWzF)
 
 &nbsp;
 
