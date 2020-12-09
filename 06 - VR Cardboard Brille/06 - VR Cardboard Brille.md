@@ -21,6 +21,7 @@ Ergänzt wird das Ganze durch tannenförmige Vektorgrafiken, die den Schwarzwald
 
 - Pappe
 - Schere (groß + klein)
+- Bleistift
 - Lineal 
 - Klebestift
 - Doppelseitiges Klebeband
