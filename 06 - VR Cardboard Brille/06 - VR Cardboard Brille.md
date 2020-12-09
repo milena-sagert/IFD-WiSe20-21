@@ -13,18 +13,43 @@ Ergänzt wird das Ganze durch tannenförmige Vektorgrafiken, die den Schwarzwald
 &nbsp;
 
 
-## 2. Zusammenbau der Papierbrille:
+## 2. Dokumentation des Zusammenbaus:
+(Schritt-für-Schritt Dokumentation)
 
-#### Zur Veranschaulichung des Fertigungs Prozesses dient die Aufnahme eines Zeitraffer Videos: [Öffnen](https://youtu.be/9VIoaTH1ais) 
+
+### 1. Materialien:
+
+- Pappe
+- Schere (groß + klein)
+- Klebestift
+- Doppelseitiges Klebeband
+- Cutter Messer
+- Skalpell
+- Ausdruck der Papiervorlage
+
+![Materialien](img/IFD_VR_Cardboard_Brille_Materialien.jpg "Materialien")
 
 
+### 2. Zusammensetzung:
+
+#### Zur Veranschaulichung des Fertigungs Prozesses dient die Aufnahme eines Zeitraffer Videos: 
+
+## [Öffnen](https://youtu.be/9VIoaTH1ais) 
+
+#### Schritte:
+1. Ausschneiden der Papiervorlage
+2. Zeichnen der Umrisse auf Pappe
+3. Ausschneiden der Pappteile
+4. Aufkleben der Papiervorlage auf Pappe
+5. Knicken der Pappe
+6. Einsetzen der Linsen
+7. Zusammenstecken der Teile
 
 &nbsp;
 
 ## 3. Endergebnis:
 
 ![Endergebnis](img/IFD_VR_Cardboard_Brille_Endergebnis.JPG "Endergebnis")
-
 
 
 &nbsp;
