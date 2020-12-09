@@ -34,7 +34,7 @@ Ergänzt wird das Ganze durch tannenförmige Vektorgrafiken, die den Schwarzwald
 ### 2. Zusammensetzung:
 
 #### Zur Veranschaulichung des Fertigungs Prozesses dient die Aufnahme eines Zeitraffer Videos: [Öffnen](https://youtu.be/9VIoaTH1ais) 
-
+---
 #### Folgende Schritte waren Bestandteil der Durchführung:
 1. Ausschneiden der Papiervorlage
 2. Zeichnen der Umrisse auf Pappe
