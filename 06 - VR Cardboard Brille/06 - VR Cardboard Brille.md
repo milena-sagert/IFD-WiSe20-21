@@ -8,7 +8,7 @@
 Zur visuellen Optimierung der Brille wurde ein HFU-Design für die Papiervorlage erstellt. Auf Basis des Corporate Designs der Hochschule Furtwangen wurde bei der Farbwahl die Primärfarbe "frisches Apfelgrün" berücksichtigt. Das Logo ist wurde sowohl auf der Vorderseite der VR Brille, als auch auf der rechten und linken Seite platziert. 
 Ergänzt wird das Ganze durch tannenförmige Vektorgrafiken, die den Schwarzwald und somit den Standort der Hochschule symbolisieren.
 
-![HFU-Design](img/IFD_VR_Cardboard_Brille_Seiten_.png "HFU-Design")
+![HFU-Design](img/IFD_VR_Cardboard_Brille_Seiten.png "HFU-Design")
 
 &nbsp;
 
