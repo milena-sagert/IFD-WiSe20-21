@@ -2,7 +2,7 @@
 
 &nbsp;
 
-<a href="https://github.com/milena-sagert/IFD-WiSe20-21/blob/main/05%20-%20High%20Fid%20VUI/5%20-%20High%20Fid%20VUI.md.md" target="_blank">#06 - VR Carboard Brille </a> <br>
+<a href="https://github.com/milena-sagert/IFD-WiSe20-21/blob/main/06%20-%20VR%20Carboard%20Brille/06%20-%20VR%20Carboard%20Brille.md" target="_blank">#06 - VR Cardboard Brille </a> <br>
 
 
 <a href="https://github.com/milena-sagert/IFD-WiSe20-21/blob/main/05%20-%20High%20Fid%20VUI/5%20-%20High%20Fid%20VUI.md" target="_blank">#05 - High Fid VUI </a> <br>
