@@ -10,7 +10,7 @@
 &nbsp;
 
 
-## 2. Video Prototyp: [Öffnen](https://github.com/milena-sagert/IFD-WiSe20-21) 
+## 2. Video Prototyp: [Öffnen](https://youtu.be/_Vy9dSTq1JQ) 
 
 
 &nbsp;
