@@ -3,8 +3,8 @@
 
 &nbsp;
 
-Der Video Prototyp aus der letzten Aufgabe wurde nun auf einen höheren Reifegrad gebracht. Das 360° Video wurde mit Hilfe von Adobe Premiere Pro
-unter Berücksichtigung der räumlichen Verformung mit animierten Elementen angereichert.
+Der Video Prototyp aus der letzten Aufgabe wurde nun auf einen höheren Reifegrad gebracht. Das 360° Video der Gesprächsrunde wurde mit Hilfe von Adobe Premiere Pro
+und unter Berücksichtigung der räumlichen Verformung mit animierten Elementen angereichert.
 Der Output kann jetzt mit dem 360-Video-Player von YouTube betrachtet werden.
 
 &nbsp;
