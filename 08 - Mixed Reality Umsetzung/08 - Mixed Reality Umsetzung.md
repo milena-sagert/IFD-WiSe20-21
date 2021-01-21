@@ -7,6 +7,8 @@ Der Video Prototyp aus der letzten Aufgabe wurde nun auf einen höheren Reifegra
 unter Berücksichtigung der räumlichen Verformung mit animierten Elementen angereichert.
 Der Output kann letzlich mit dem 360-Vieo-Player von YouTube betrachtet werden.
 
+&nbsp;
+
 
 ## Video: [Öffnen](https://youtu.be/d1KyXhO6h9Q) 
 
