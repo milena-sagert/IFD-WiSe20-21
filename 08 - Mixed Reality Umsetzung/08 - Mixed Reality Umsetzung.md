@@ -5,7 +5,7 @@
 
 Der Video Prototyp aus der letzten Aufgabe wurde nun auf einen höheren Reifegrad gebracht. Das 360° Video wurde mit Hilfe von Adobe Premiere Pro
 unter Berücksichtigung der räumlichen Verformung mit animierten Elementen angereichert.
-Der Output kann letzlich mit dem 360-Vieo-Player von YouTube betrachtet werden.
+Der Output kann jetzt mit dem 360-Video-Player von YouTube betrachtet werden.
 
 &nbsp;
 
