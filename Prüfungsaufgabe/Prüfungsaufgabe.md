@@ -7,7 +7,15 @@ Für die Prüfungsaufgabe und als Klausur-Ersatz der Veranstaltung Interface Des
 
 &nbsp;
 
-## 1. Customer Journey Map
+## 1. Auswahl des Prototypen  
+
+Zur Bearbeitung der Aufgabenstellung wurde ein Prototyp aus den Aufgabenblöcken zu GUI, VUI oder VR ausgewählt. Hierbei fiel die Entscheidung auf die VR-Anwendung. Der aktuelle Stand dieses Prototypen bildete die Basis der Weiterentwicklung. 
+
+Prototyp - 360° Gesprächrsrunde als VR-Anwendung: [Video öffnen](https://youtu.be/d1KyXhO6h9Q) 
+
+&nbsp;
+
+## 2. Customer Journey Map
 
 (Potentielle) Nutzer durchlaufen mehrere Stationen vom Beginn Ihrer Suche bis hin zur Conversion. Das bekannte AIDA Modell beschreibt die Stationen von der Attention, über den Interest zu Desire bis hin zur gewünschten Action. Customer Journeys – und deren Mapping – sind die logische Weiterentwicklung dieses im Marketing bewährten Modells und
 
@@ -17,7 +25,7 @@ Diese bietet einen umfassenden Überblick über aktuelle Organisationspraktiken,
 
 &nbsp;
 
-### 1.1. Nutzung
+### 2.1. Nutzung
 
 360° Videos werde heute in vielen Unternehmensbereichen eingesetzt. Der Hauptvorteil dabei ist: Mit dem Filmformat werden Produktwelten, Einblicke ins Unternehmen und Trainings zu einem emotionalen Erlebnis. Dabei ist das Gefühl, nicht nur zuzusehen, sondern ein Teil des Geschehens zu sein ein essentieller Vorteil der Technologie.
 
@@ -27,7 +35,7 @@ Genau wie in klassischen Filmformaten können auch in 360° Videos Luftaufnahmen
 
 &nbsp;
 
-### 1.2. Interaktion
+### 2.2. Interaktion
 
 Der im Kurs verwendete web-basierte stereoskopische VR-Prototyp einer Gesprächsrunde zwischen Professoren und Studierenden der Hochschule Furtwangen bietet zum Beispiel für Studieninteressierte einen realitätsnahen Einblick in die Kommunikation zwischen Akteuren der Institution. Mit einem 360° Rundumblick wird der Nutzer in eine andere Situation versetzt. Erleben, statt nur zu sehen – dies macht den entscheidenden Unterschied und lässt Eindrücke länger im Kopf behalten. 
 
@@ -38,7 +46,7 @@ Ein paar Tage später schickt sie ihre Bewerbungsunterlagen in den Schwarzwald. 
 
 &nbsp;
 
-### 1.3. Visualiserung der Touchpoints
+### 2.3. Visualiserung der Touchpoints
 
 Jede Interaktion und jeder Kontakt eines Nutzers mit einer Anwendung wird als Touchpoint bezeichnet – unabhängig davon, ob der Kontakt vor, während oder nach der Interaktion stattfindet.
 
@@ -50,7 +58,7 @@ Im Rahmen dieses Bearbeitungsschrittes existieren zu diesem Zeitpunkt keine empi
 &nbsp;
 
 
-## 2. Heuristische Evaluation
+## 3. Heuristische Evaluation
 
 Um Aspekte zu identifizieren, die verbessert werden sollen, wird der Prototypen nun einer formal-analytischen, heuristischen Evaluation unterzogen.
 
@@ -62,11 +70,13 @@ Für die Überprüfung und Bewertung wurden zwei mögliche Aufgaben für den Pro
 
 &nbsp;
 
-### 2.3. Regelwerk
+### 3.1. Regelwerk
 
 Die europäische Normenreihe EN ISO 9241 legt Kriterien für das Design ergonomischer Benutzerschnittstellen fest. Die Normenreihe EN ISO 9241 wurde in den 1990er Jahren entwickelt. Der Normenteil ISO 9241-110 „Grundsätze der Dialoggestaltung“ stammt aus dem Jahr 2006.
 
 Das folgende Regelwerk stellt eine Basis dar, wie die Grundsätze der Dialoggestaltung gemäß ISO 9241-110 in der Praxis umgesetzt werden können.
+
+&nbsp;
 
 ![Regelwerk1](img/Regelwerk1.png "Regelwerk")
 ![Regelwerk1](img/Regelwerk2.png "Regelwerk")
@@ -75,10 +85,31 @@ Das folgende Regelwerk stellt eine Basis dar, wie die Grundsätze der Dialoggest
 
 [Regelwerk als PDF öffnen](https://github.com/milena-sagert/IFD-WiSe20-21/blob/main/Pr%C3%BCfungsaufgabe/img/Regelwerk.pdf) 
 
+&nbsp;
 
-
+### 3.2. Aufgaben & Interaktionsschritte
 
 &nbsp;
+
+#### 3.2.1.	
+#### 3.2.2.
+
+&nbsp;
+
+### 3.3	Priorisierung
+
+&nbsp;
+
+## 4. Protoyp Enhancement
+
+Relevante Inhalte aus der Evaluation wurden nun in dem Protypen verbessert. Dabei wurde sich auf Aspekte fokusiert, die technisch und wirtschaftlich sowie im Rahmen der Zeit und Ressourcen machbar sind. 
+
+Aspekte, die umgesetzt wurden, xxxxxxxxx
+
+&nbsp;
+
+### 4.1. Dokumentation der Weiterentwicklung
+
 
 
 
