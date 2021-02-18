@@ -9,15 +9,17 @@ Für die Prüfungsaufgabe und als Klausur-Ersatz der Veranstaltung Interface Des
 
 &nbsp;
 
-1.	Customer Journey Map
+## 1. Customer Journey Map
 
 (Potentielle) Nutzer durchlaufen mehrere Stationen vom Beginn Ihrer Suche bis hin zur Conversion. Das bekannte AIDA Modell beschreibt die Stationen von der Attention, über den Interest zu Desire bis hin zur gewünschten Action. Customer Journeys – und deren Mapping – sind die logische Weiterentwicklung dieses im Marketing bewährten Modells und
-Um Ideen für die Optimierungen des VR-Prototypes zu erhalten und zu untersuchen wie die VR-Anwendung genutzt werden würde, wie Nutzer/Kunde mit diesem Produkt in Kontakt kommen auch damit interagieren würden und um die Touchpoints zwischen dem Produkt (Prototypen) und dem Nutzer zu visualisieren, wurde eine Customer Journey Map erstellt, 
+
+Um Ideen für die Optimierungen des VR-Prototypes zu erhalten und zu untersuchen wie die VR-Anwendung genutzt werden würde, wie Nutzer/Kunde mit diesem Produkt in Kontakt kommen auch damit interagieren würden und um die Touchpoints zwischen dem Produkt (Prototypen) und dem Nutzer zu visualisieren, wurde eine Customer Journey Map erstellt.
+
 Diese bietet einen umfassenden Überblick über aktuelle Organisationspraktiken, da sie grundsätzlich die User Experience-Geschichte des Nutzers erzählt und über die einzelnen Touch-Points hinweg seine Gefühle, Verhaltensweisen, Bedenken und Motivationen zeigt.
 
 &nbsp;
 
-1.1	 Nutzung
+### 1.1. Nutzung
 
 360° Videos werde heute in vielen Unternehmensbereichen eingesetzt. Der Hauptvorteil dabei ist: Mit dem Filmformat werden Produktwelten, Einblicke ins Unternehmen und Trainings zu einem emotionalen Erlebnis. Dabei ist das Gefühl, nicht nur zuzusehen, sondern ein Teil des Geschehens zu sein ein essentieller Vorteil der Technologie.
 
@@ -27,7 +29,7 @@ Genau wie in klassischen Filmformaten können auch in 360° Videos Luftaufnahmen
 
 &nbsp;
 
-1.2	 Interaktion
+### 1.2. Interaktion
 
 Der im Kurs verwendete web-basierte stereoskopische VR-Prototyp einer Gesprächsrunde zwischen Professoren und Studierenden der Hochschule Furtwangen bietet zum Beispiel für Studieninteressierte einen realitätsnahen Einblick in die Kommunikation zwischen Akteuren der Institution. Mit einem 360° Rundumblick wird der Nutzer in eine andere Situation versetzt. Erleben, statt nur zu sehen – dies macht den entscheidenden Unterschied und lässt Eindrücke länger im Kopf behalten. 
 
