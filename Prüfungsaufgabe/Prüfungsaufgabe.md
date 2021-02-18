@@ -71,7 +71,7 @@ Das folgende Regelwerk stellt eine Basis dar, wie die Grundsätze der Dialoggest
 
 <embed src=" /img/Regelwerk.pdf" type="application/pdf">
 
-<object data=" /img/Regelwerk.pdf" type="application/pdf"> width==100%"> 
+<object data=" /img/Regelwerk.pdf" type="application/pdf"> width=100%"> 
 </object>
 
 
