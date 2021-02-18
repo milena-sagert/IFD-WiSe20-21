@@ -11,8 +11,8 @@ Für die Prüfungsaufgabe und als Klausur-Ersatz der Veranstaltung Interface Des
 
 Zur Bearbeitung der Aufgabenstellung wurde ein Prototyp aus den Aufgabenblöcken zu GUI, VUI oder VR ausgewählt. Hierbei fiel die Entscheidung auf die VR-Anwendung. Der aktuelle Stand dieses Prototypen bildete die Basis der Weiterentwicklung. 
 
-**Prototyp:** 360° Gesprächsrunde als VR-Anwendung
-[Video öffnen](https://youtu.be/d1KyXhO6h9Q) 
+**Prototyp:** 360° Gesprächsrunde als VR-Anwendung <br>
+[Video öffnen](https://youtu.be/d1KyXhO6h9Q) <br>
 _Stand: 20.01.2021_
 
 &nbsp;
