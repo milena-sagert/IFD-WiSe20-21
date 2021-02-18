@@ -14,7 +14,10 @@ Für die Prüfungsaufgabe und als Klausur-Ersatz der Veranstaltung Interface Des
 
 
 
-## Video: [Öffnen](https://youtu.be/d1KyXhO6h9Q) 
+
+
+
+
 
 
 &nbsp;
