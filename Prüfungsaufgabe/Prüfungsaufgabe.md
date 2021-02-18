@@ -13,7 +13,7 @@ Zur Bearbeitung der Aufgabenstellung wurde ein Prototyp aus den Aufgabenblöcken
 
 **Prototyp:** 360° Gesprächsrunde als VR-Anwendung <br>
 [Video öffnen](https://youtu.be/d1KyXhO6h9Q) <br>
-_Stand: 20.01.2021_
+######_Stand: 20.01.2021_
 
 &nbsp;
 
