@@ -13,7 +13,7 @@ Zur Bearbeitung der Aufgabenstellung wurde ein Prototyp aus den Aufgabenblöcken
 
 **Prototyp:** 360° Gesprächsrunde als VR-Anwendung <br>
 [Video öffnen](https://youtu.be/d1KyXhO6h9Q) <br>
-######*(Stand: 20.01.2021)*
+*(Stand: 20.01.2021)*
 
 &nbsp;
 
@@ -60,7 +60,7 @@ Im Rahmen dieses Bearbeitungsschrittes existieren zu diesem Zeitpunkt keine empi
 
 ![Customer Journey Map](img/CJM.jpg "CJM")
 
-######Anmerkung: Die Abbildung der CJM wurde mit der kostenlosen Version der technischen 2D-Business-Diagrammsoftware "Edraw Max" erstellt.
+*Anmerkung: Die Abbildung der CJM wurde mit der kostenlosen Version der technischen 2D-Business-Diagrammsoftware "Edraw Max" erstellt.*
 
 &nbsp;
 
