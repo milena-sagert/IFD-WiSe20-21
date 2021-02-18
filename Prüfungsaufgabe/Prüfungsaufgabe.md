@@ -60,6 +60,31 @@ Dazu wurde zunächst ein Regelwerk auf Basis der ISO 9241-110 entwickelt und mit
 
 Für die Überprüfung und Bewertung wurden zwei mögliche Aufgaben für den Prototypen entwickelt und in logische Interaktionsschritte unterteilt. Die Findings wurden im Anschluss nach Schwere des Problems priorisiert.
 
+&nbsp;
+
+### 2.3. Regelwerk
+
+Die europäische Normenreihe EN ISO 9241 legt Kriterien für das Design ergonomischer Benutzerschnittstellen fest. Die Normenreihe EN ISO 9241 wurde in den 1990er Jahren entwickelt. Der Normenteil ISO 9241-110 „Grundsätze der Dialoggestaltung“ stammt aus dem Jahr 2006.
+
+Das folgende Regelwerk stellt eine Basis dar, wie die Grundsätze der Dialoggestaltung gemäß ISO 9241-110 in der Praxis umgesetzt werden können.
+
+&nbsp;
+
+| Default aligned | Left aligned | Center aligned  | Right aligned  |
+|-----------------|:-------------|:---------------:|---------------:|
+| First body part | Second cell  | Third cell      | fourth cell    |
+| Second line     | foo          | **strong**      | baz            |
+| Third line      | quux         | baz             | bar            |
+|-----------------+--------------+-----------------+----------------|
+| Second body     |              |                 |                |
+| 2nd line        |              |                 |                |
+|-----------------+--------------+-----------------+----------------|
+| Third body      |              |                 | Foo            |
+{: .custom-class #custom-id}
+
+&nbsp;
+
+
 
 
 &nbsp;
