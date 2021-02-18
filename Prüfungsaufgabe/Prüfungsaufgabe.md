@@ -69,7 +69,10 @@ Die europäische Normenreihe EN ISO 9241 legt Kriterien für das Design ergonomi
 Das folgende Regelwerk stellt eine Basis dar, wie die Grundsätze der Dialoggestaltung gemäß ISO 9241-110 in der Praxis umgesetzt werden können.
 
 
-<object data= Prüfungsaufgabe/img/Regelwerk.pdf" type="application/pdf" width="100%">
+<embed src=" /img/Regelwerk.pdf" type="application/pdf">
+
+<object data=" /img/Regelwerk.pdf" type="application/pdf"> width==100%"> 
+</object>
 
 
 
