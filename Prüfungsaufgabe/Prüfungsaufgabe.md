@@ -56,6 +56,8 @@ Ziel beim Visualisieren mittels einer Customer Journey Map ist es, alle relevant
 
 Im Rahmen dieses Bearbeitungsschrittes existieren zu diesem Zeitpunkt keine empirischen Nutzerdaten, um eine belastbare Customer Journey Map zu entwickeln. Die resultierte Darstellung ist folglich aus eigener „Experten-Sicht“ konstruiert wurden.
 
+[Download als EDDX](https://github.com/milena-sagert/IFD-WiSe20-21/blob/main/Pr%C3%BCfungsaufgabe/img/ifd-vr-customer-journey-map.eddx) 
+
 ![Customer Journey Map](img/CJM.jpg "CJM")
 
 ######*Anmerkung: Die Abbildung der CJM wurde mit der kostenlosen Version der technischen 2D-Business-Diagrammsoftware "Edraw Max" erstellt.*
