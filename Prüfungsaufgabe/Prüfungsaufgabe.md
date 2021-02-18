@@ -68,17 +68,12 @@ Die europäische Normenreihe EN ISO 9241 legt Kriterien für das Design ergonomi
 
 Das folgende Regelwerk stellt eine Basis dar, wie die Grundsätze der Dialoggestaltung gemäß ISO 9241-110 in der Praxis umgesetzt werden können.
 
-&nbsp;
 
-| Grundsatz       | Beschreibung | 
-|:----------------|:-------------|
-| Aufgabenangemessenheit | Ein Interface/ Dialog sollte den Inhalt angemessen in seiner Komplexität präsentieren. Es sollten Medienbrüche vermieden und Nutzer in einem medialen Kontext gehalten werden.| 
-| Selbstbeschreibungsfähigkeit   | Der Dialog/Interface sollte für den Nutzer selbsterklärend beschreiben können, welche Interaktionen oder Inhalten angeboten werden. Der Nutzer sollte also nicht durch die Präsentation der Informationen verunsichert sein welche Informationen jetzt hier gegeben sind und wie er hier weiter interagieren muss. |                
-| Steuerbarkeit    |              |                     
-| Erwartungskonformität | Second cell  |     
-| Fehlertoleranz    | quux         |              
-| Individualisierbarkeit   |              |                    
-| Second body     |              |                     
+<object data= /img/Regelwerk.pdf" type="application/pdf" width="100%">
+
+
+
+<a href="https://github.com/milena-sagert/IFD-WiSe20-21/blob/main/07%20-%20Video%20Prototyp/07-%20Video%20Prototyp.md" target="_blank">#07 - Mixed Reality Video Prototyp </a> <br>
 
 
 &nbsp;
