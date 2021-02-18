@@ -8,6 +8,12 @@
 &nbsp;
 
 
+Für die Prüfungsaufgabe und als Klausur-Ersatz der Veranstaltung Interface Design im Wintersemester 2020/21 wurde ein VR-Prototyp aus dem Praktikumsblock des Kurses unter Berücksichtigung der Customer Journey Map, der Heuristischen Evaluation sowie der Prototyp Enhancement verprobt und weiterentwickelt. 
+
+&nbsp;
+
+
+
 ## Video: [Öffnen](https://youtu.be/d1KyXhO6h9Q) 
 
 
