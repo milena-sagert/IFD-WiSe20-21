@@ -60,7 +60,7 @@ Im Rahmen dieses Bearbeitungsschrittes existieren zu diesem Zeitpunkt keine empi
 
 ![Customer Journey Map](img/CJM.jpg "CJM")
 
-######*Anmerkung: Die Abbildung der CJM wurde mit der kostenlosen Version der technischen 2D-Business-Diagrammsoftware "Edraw Max" erstellt.*
+######Anmerkung: Die Abbildung der CJM wurde mit der kostenlosen Version der technischen 2D-Business-Diagrammsoftware "Edraw Max" erstellt.
 
 &nbsp;
 
