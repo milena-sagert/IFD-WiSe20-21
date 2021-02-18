@@ -91,7 +91,7 @@ Das folgende Regelwerk stellt eine Basis dar, wie die Grundsätze der Dialoggest
 ![Regelwerk1](img/Regelwerk3.png "Regelwerk")
 ![Regelwerk1](img/Regelwerk4.png "Regelwerk")
 
-Sicherlich geht die Ergonomie der Mensch Maschinen Interaktion noch über diese sieben Anforderungen hinaus. Doch wenn die Grundsätze der ISO 9241-110 berücksichtigt werden, ist hohes Maß an Nutzerfreundlichkeit sichergestellt.
+Sicherlich geht die Ergonomie der Mensch Maschinen Interaktion noch über diese sieben Anforderungen hinaus. Doch wenn die Grundsätze der ISO 9241-110 berücksichtigt werden, ist ein hohes Maß an Nutzerfreundlichkeit gewährleistet.
 
 &nbsp;
 
