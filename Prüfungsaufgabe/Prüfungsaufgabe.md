@@ -13,7 +13,7 @@ Zur Bearbeitung der Aufgabenstellung wurde ein Prototyp aus den Aufgabenblöcken
 
 **Prototyp:** 360° Gesprächsrunde als VR-Anwendung <br>
 [Video öffnen](https://youtu.be/d1KyXhO6h9Q) <br>
-_(Stand: 20.01.2021)_
+######*(Stand: 20.01.2021)*
 
 &nbsp;
 
@@ -56,6 +56,9 @@ Ziel beim Visualisieren mittels einer Customer Journey Map ist es, alle relevant
 
 Im Rahmen dieses Bearbeitungsschrittes existieren zu diesem Zeitpunkt keine empirischen Nutzerdaten, um eine belastbare Customer Journey Map zu entwickeln. Die resultierte Darstellung ist folglich aus eigener „Experten-Sicht“ konstruiert wurden.
 
+![Customer Journey Map](img/CJM.jpg "CJM")
+
+######*Anmerkung: Die Abbildung der CJM wurde mit der kostenlosen Version der technischen 2D-Business-Diagrammsoftware "Edraw Max" erstellt.*
 
 &nbsp;
 
