@@ -70,19 +70,15 @@ Das folgende Regelwerk stellt eine Basis dar, wie die Grundsätze der Dialoggest
 
 &nbsp;
 
-| Grundsatz               | Beschreibung | Umsetzungsbeispiele | 
-|-------------------------|:-------------|:-------------------:|
-| Aufgabenangemessenheit  | Ein Interface/ Dialog sollte den Inhalt angemessen in seiner Komplexität präsentieren.
-                           
-                           Es sollten Medienbrüche vermieden und Nutzer in einem medialen Kontext gehalten werden.
-                           
-  | Third cell          | 
-| Third line      | quux         | baz                 | 
-| Second body     |              |                     |  
-| First body part | Second cell  | Third cell          | 
-| Third line      | quux         | baz                 | 
-| Second body     |              |                     | 
-| Second body     |              |                     |  
+| Grundsatz       | Beschreibung | 
+|:----------------|:-------------|
+| Aufgabenangemessenheit | Ein Interface/ Dialog sollte den Inhalt angemessen in seiner Komplexität präsentieren. Es sollten Medienbrüche vermieden und Nutzer in einem medialen Kontext gehalten werden.| 
+| Selbstbeschreibungsfähigkeit   | Der Dialog/Interface sollte für den Nutzer selbsterklärend beschreiben können, welche Interaktionen oder Inhalten angeboten werden. Der Nutzer sollte also nicht durch die Präsentation der Informationen verunsichert sein welche Informationen jetzt hier gegeben sind und wie er hier weiter interagieren muss. |                
+| Steuerbarkeit    |              |                     
+| Erwartungskonformität | Second cell  |     
+| Fehlertoleranz    | quux         |              
+| Individualisierbarkeit   |              |                    
+| Second body     |              |                     
 
 
 &nbsp;
