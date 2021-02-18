@@ -13,7 +13,7 @@ Zur Bearbeitung der Aufgabenstellung wurde ein Prototyp aus den Aufgabenblöcken
 
 **Prototyp:** 360° Gesprächsrunde als VR-Anwendung <br>
 [Video öffnen](https://youtu.be/d1KyXhO6h9Q) <br>
-######_Stand: 20.01.2021_
+_(Stand: 20.01.2021)_
 
 &nbsp;
 
@@ -87,14 +87,16 @@ Das folgende Regelwerk stellt eine Basis dar, wie die Grundsätze der Dialoggest
 ![Regelwerk1](img/Regelwerk3.png "Regelwerk")
 ![Regelwerk1](img/Regelwerk4.png "Regelwerk")
 
+Sicherlich geht die Ergonomie der Mensch Maschinen Interaktion noch über diese sieben Anforderungen hinaus. Doch wenn die Grundsätze der ISO 9241-110 berücksichtigt werden, ist hohes Maß an Nutzerfreundlichkeit sichergestellt.
+
 &nbsp;
 
 ### 3.2. Aufgaben & Interaktionsschritte
 
 &nbsp;
 
-#### 3.2.1.	
-#### 3.2.2.
+1. 
+2. 
 
 &nbsp;
 
@@ -106,11 +108,12 @@ Das folgende Regelwerk stellt eine Basis dar, wie die Grundsätze der Dialoggest
 
 Relevante Inhalte aus der Evaluation wurden nun in dem Protypen verbessert. Dabei wurde sich auf Aspekte fokusiert, die technisch und wirtschaftlich sowie im Rahmen der Zeit und Ressourcen machbar sind. 
 
-Aspekte, die umgesetzt wurden, xxxxxxxxx
 
 &nbsp;
 
 ### 4.1. Dokumentation der Weiterentwicklung
+
+###### Begründen Sie in Ihrer Dokumentation, welche Aspekte aus Punkt 3 umgesetzt, welche nicht umgesetzt werden konnten. Dokumentieren Sie die Weiterentwicklung des Prototypen mit einem angemessenen Format (Bild/Text-Doku…).
 
 
 
