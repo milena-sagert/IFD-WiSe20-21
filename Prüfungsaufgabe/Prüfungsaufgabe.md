@@ -78,12 +78,12 @@ Das folgende Regelwerk stellt eine Basis dar, wie die Grundsätze der Dialoggest
 
 &nbsp;
 
+[Regelwerk als PDF öffnen](https://github.com/milena-sagert/IFD-WiSe20-21/blob/main/Pr%C3%BCfungsaufgabe/img/Regelwerk.pdf) 
+
 ![Regelwerk1](img/Regelwerk1.png "Regelwerk")
 ![Regelwerk1](img/Regelwerk2.png "Regelwerk")
 ![Regelwerk1](img/Regelwerk3.png "Regelwerk")
 ![Regelwerk1](img/Regelwerk4.png "Regelwerk")
-
-[Regelwerk als PDF öffnen](https://github.com/milena-sagert/IFD-WiSe20-21/blob/main/Pr%C3%BCfungsaufgabe/img/Regelwerk.pdf) 
 
 &nbsp;
 
