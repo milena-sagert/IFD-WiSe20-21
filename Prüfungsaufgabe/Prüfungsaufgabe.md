@@ -70,17 +70,20 @@ Das folgende Regelwerk stellt eine Basis dar, wie die Grundsätze der Dialoggest
 
 &nbsp;
 
-| Default aligned | Left aligned | Center aligned  | 
-|-----------------|:-------------|:---------------:|
-| First body part | Second cell  | Third cell      | 
-| Third line      | quux         | baz             | 
-| Second body     |              |                 |  
-| First body part | Second cell  | Third cell      | 
-| Third line      | quux         | baz             | 
-| Second body     |              |                 | 
-| Second body     |              |                 |  
+| Grundsatz               | Beschreibung | Umsetzungsbeispiele | 
+|-------------------------|:-------------|:-------------------:|
+| Aufgabenangemessenheit  | Ein Interface/ Dialog sollte den Inhalt angemessen in seiner Komplexität präsentieren.
+                           
+                           Es sollten Medienbrüche vermieden und Nutzer in einem medialen Kontext gehalten werden.
+                           
+  | Third cell          | 
+| Third line      | quux         | baz                 | 
+| Second body     |              |                     |  
+| First body part | Second cell  | Third cell          | 
+| Third line      | quux         | baz                 | 
+| Second body     |              |                     | 
+| Second body     |              |                     |  
 
-{: .custom-class #custom-id}
 
 &nbsp;
 
