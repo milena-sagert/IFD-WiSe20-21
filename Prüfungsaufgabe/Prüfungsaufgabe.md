@@ -1,6 +1,6 @@
 [Zurück](https://github.com/milena-sagert/IFD-WiSe20-21) | [Teamseite](https://webuser.hs-furtwangen.de/~rag/lehre/WiSe20-21/IFD/Kursinhalt/Team/)
 # Interface Design WiSe20/21 - Prüfungsaufgabe (Klausur-Ersatz)
-
+---
 ## Evaluierung & Verbesserung eines Prototypen aus diesem Semester
 
 &nbsp;
@@ -38,6 +38,29 @@ Eine beispielhafte Anwendung könnte folgendes Szenario sein:
 Die Abiturientin Anna ist auf der Suche nach einem geeigneten Studiengang für ihre berufliche Karriere. Sie recherchiert im Web nach Studienangeboten und vergleicht verschiedene Hochschulen miteinander. Unter anderem stößt sie bei ihrer Suche auf die Website der HFU. Der Studiengang Medienkonzeption spricht sie besonders an. Wichtig sind ihr bei ihrer Auswahl fachliche Schwerpunkte, die technische Ausstattung sowie das zwischenmenschliche Verhältnis und die Kommunikation unter Lehrenden und Studierenden. Während Anna zwischen Modulplänen und Einrichtungen umherscrollt, richtet sich ihre Aufmerksamkeit auf ein 360° Video. Zu sehen ist eine Gesprächsrunde zwischen zwei Professoren der Fakultät Digitale Medien und einer Studierenden des Studiengangs Medienkonzeption. „Interessant, das schaue ich mir an!“ denkt sie sich und startet das Video. Auf sympathische Art und Weise diskutieren die drei Teilnehmer der Gesprächsrunde über aktuelle relevante Themen. Während Meinungen geteilt und Informationen ausgetauscht werden herrscht eine angenehme und vertraute Atmosphäre. Mit authentischem Charakter bildet der Clip den internen Umgang an der Hochschule ab – Anna ist begeistert.
 Ein paar Tage später schickt sie ihre Bewerbungsunterlagen in den Schwarzwald. Das 360° Video hat sie überzeugt: Sie möchte die kommenden Jahre an der HFU studieren! 
 
+&nbsp;
+
+### 1.3. Visualiserung der Touchpoints
+
+Jede Interaktion und jeder Kontakt eines Nutzers mit einer Anwendung wird als Touchpoint bezeichnet – unabhängig davon, ob der Kontakt vor, während oder nach der Interaktion stattfindet.
+
+Ziel beim Visualisieren mittels einer Customer Journey Map ist es, alle relevanten Touchpoints zu berücksichtigen. Jeder Touchpoint verfolgt ein bestimmtes Ziel und muss daher aus Kundensicht definiert werden. 
+
+Im Rahmen dieses Bearbeitungsschrittes existieren zu diesem Zeitpunkt keine empirischen Nutzerdaten, um eine belastbare Customer Journey Map zu entwickeln. Die resultierte Darstellung ist folglich aus eigener „Experten-Sicht“ konstruiert wurden.
+
+
+&nbsp;
+
+
+## 2. Heuristische Evaluation
+
+Um Aspekte zu identifizieren, die verbessert werden sollen, wird der Prototypen nun einer formal-analytischen, heuristischen Evaluation unterzogen.
+
+Bei der heuristischen Evaluation handelt es sich um eine Methode, die Gebrauchstauglichkeit einer Benutzeroberfläche formativ zu beurteilen.
+
+Dazu wurde zunächst ein Regelwerk auf Basis der ISO 9241-110 entwickelt und mit Grundsätzen aus dem WCAG 2 angereichert. 
+
+Für die Überprüfung und Bewertung wurden zwei mögliche Aufgaben für den Prototypen entwickelt und in logische Interaktionsschritte unterteilt. Die Findings wurden im Anschluss nach Schwere des Problems priorisiert.
 
 
 
