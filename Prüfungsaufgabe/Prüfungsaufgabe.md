@@ -131,6 +131,12 @@ Die folgenden Elemente wurden optimiert:
 ![Informationsbox](img/lockdown.png "Informationsbox")
 ![Steuerelemente](img/steuerelemente.png "Steuerelemente")
 
+&nbsp;
+
+---
+
+Verbesserter Prototy:
+### Video: [Öffnen](https://youtu.be/d1KyXhO6h9Q) 
 
 &nbsp;
 
