@@ -135,10 +135,11 @@ Die folgenden Elemente wurden optimiert:
 
 ---
 
-Verbesserter Prototy:
+Verbesserter Prototyp:
 ### Video: [Öffnen](https://youtu.be/5c0WIvNAokg) 
+
+---
 
 &nbsp;
 
----
 [Nach oben &#x25B2;](#top)
