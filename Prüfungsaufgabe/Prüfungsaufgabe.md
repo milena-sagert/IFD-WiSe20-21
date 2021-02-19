@@ -136,7 +136,7 @@ Die folgenden Elemente wurden optimiert:
 ---
 
 Verbesserter Prototy:
-### Video: [Öffnen](https://youtu.be/d1KyXhO6h9Q) 
+### Video: [Öffnen](https://youtu.be/5c0WIvNAokg) 
 
 &nbsp;
 
