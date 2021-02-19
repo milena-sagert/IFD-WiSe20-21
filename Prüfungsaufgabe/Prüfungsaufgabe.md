@@ -97,13 +97,15 @@ Sicherlich geht die Ergonomie der Mensch Maschinen Interaktion noch über diese 
 
 ### 3.2. Aufgaben & Interaktionsschritte
 
-1. Nutzung der Informationbox
+**1. Nutzung der Informationbox**
 
 Mit Hilfe der Informationstafel hat der Nutzer die Möglichkeit sich bei Fachbegriffen über die Bedeutung und den grammatikalischen Aufbau des Wortes zu informieren. Grafisch abgebildet ist zum einen die Begriffserklärung, sowie ein Sharing Button und die Option mehr zu erfahren. 
 
 ![Interaktionsschritte](img/Interaktionsschritte1.png "Interaktionsschritte")
 
-2. Bedienung der Steuerungselemente
+&nbsp;
+
+**2. Bedienung der Steuerungselemente**
 
 Der Nutzer hat die Möglichkeit das 360° Video mithilfe verschiedener Steuerungselementen zu kontrollieren. Über eine Leiste mit integriertem Play- Pause- und verschiedener Spul Button ist es ihm möglich die Anwendung nach Belieben anzuhalten oder abzuspielen. 
 
