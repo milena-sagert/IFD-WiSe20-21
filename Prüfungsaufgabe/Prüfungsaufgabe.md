@@ -126,6 +126,11 @@ Da im aktuellen VR Prototypen (#08 - Mixed Reality Umsetzung) lediglich ein einz
 
 Aufgrund der gewählten Herangehensweise mit Adobe Premiere die VR-Anwendung prototypisch als YouTube 360° Video abzubilden, war die kreative Umsetzung leider auch sehr eingeschränkt. So konnten keinerlei „reale“ Interaktionsmöglichkeiten geschaffen werden. 
 
+Die folgenden Elemente wurden optimiert:
+
+![Informationsbox](img/lockdown.png "Informationsbox")
+![Steuerelemente](img/steuerelemente.png "Steuerelemente")
+
 
 &nbsp;
 
