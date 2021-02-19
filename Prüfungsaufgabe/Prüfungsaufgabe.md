@@ -112,23 +112,19 @@ Der Nutzer hat die Möglichkeit das 360° Video mithilfe verschiedener Steuerung
 
 &nbsp;
 
-### 3.3	Priorisierung
 
-&nbsp;
 
 ## 4. Protoyp Enhancement
 
 Relevante Inhalte aus der Evaluation wurden nun in dem Protypen verbessert. Dabei wurde sich auf Aspekte fokusiert, die technisch und wirtschaftlich sowie im Rahmen der Zeit und Ressourcen machbar sind. 
 
-
 &nbsp;
 
 ### 4.1. Dokumentation der Weiterentwicklung
 
-###### Begründen Sie in Ihrer Dokumentation, welche Aspekte aus Punkt 3 umgesetzt, welche nicht umgesetzt werden konnten. Dokumentieren Sie die Weiterentwicklung des Prototypen mit einem angemessenen Format (Bild/Text-Doku…).
+Da im aktuellen VR Prototypen (#08 - Mixed Reality Umsetzung) lediglich ein einziges Element umgesetzt wurde, wurde sich bei der Verbesserung auf den vorhergegangenen Aufgabenblock (#07 - Video Prototyp Konzeption) bezogen. Konkret wurden die Informationsbox und die Steuerelemente verbessert. Dazu gehörte die visuelle Anpassung an Farbe (Corporate Design der HFU) sowie eine generelle grafische Überarbeitung.
 
-
-
+Aufgrund der gewählten Herangehensweise mit Adobe Premiere die VR-Anwendung prototypisch als YouTube 360° Video abzubilden, war die kreative Umsetzung leider auch sehr eingeschränkt. So konnten keinerlei „reale“ Interaktionsmöglichkeiten geschaffen werden. 
 
 
 &nbsp;
