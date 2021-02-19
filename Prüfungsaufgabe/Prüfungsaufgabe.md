@@ -103,7 +103,6 @@ Mit Hilfe der Informationstafel hat der Nutzer die Möglichkeit sich bei Fachbeg
 
 ![Interaktionsschritte](img/Interaktionsschritte1.png "Interaktionsschritte")
 
-&nbsp;
 
 **2. Bedienung der Steuerungselemente**
 
