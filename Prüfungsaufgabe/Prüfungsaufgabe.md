@@ -73,7 +73,7 @@ Bei der heuristischen Evaluation handelt es sich um eine Methode, die Gebrauchst
 
 Dazu wurde zunächst ein Regelwerk auf Basis der ISO 9241-110 entwickelt und mit Grundsätzen aus dem WCAG 2 angereichert. 
 
-Für die Überprüfung und Bewertung wurden zwei mögliche Aufgaben für den Prototypen entwickelt und in logische Interaktionsschritte unterteilt. Die Findings wurden im Anschluss nach Schwere des Problems priorisiert.
+Für die Überprüfung und Bewertung wurden zwei mögliche Aufgaben für den Prototypen entwickelt und in logische Interaktionsschritte unterteilt. 
 
 &nbsp;
 
@@ -97,8 +97,17 @@ Sicherlich geht die Ergonomie der Mensch Maschinen Interaktion noch über diese 
 
 ### 3.2. Aufgaben & Interaktionsschritte
 
-1. 
-2. 
+1. Nutzung der Informationbox
+
+Mit Hilfe der Informationstafel hat der Nutzer die Möglichkeit sich bei Fachbegriffen über die Bedeutung und den grammatikalischen Aufbau des Wortes zu informieren. Grafisch abgebildet ist zum einen die Begriffserklärung, sowie ein Sharing Button und die Option mehr zu erfahren. 
+
+![Interaktionsschritte](img/Interaktionsschritte1.png "Interaktionsschritte")
+
+2. Bedienung der Steuerungselemente
+
+Der Nutzer hat die Möglichkeit das 360° Video mithilfe verschiedener Steuerungselementen zu kontrollieren. Über eine Leiste mit integriertem Play- Pause- und verschiedener Spul Button ist es ihm möglich die Anwendung nach Belieben anzuhalten oder abzuspielen. 
+
+![Interaktionsschritte](img/Interaktionsschritte2.png "Interaktionsschritte")
 
 &nbsp;
 
